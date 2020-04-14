@@ -9,9 +9,9 @@ Jupyter Notebook 檔案
 
 ## 結果
 ### 訓練結果
-![](train.jpg)
+![](image/train.jpg)
 ### 測試結果
-![](test.jpg)
+![](image/test.jpg)
 
 ## 結論
 由於硬體及時間上的限制，測試的準確率大約只有20%
